@@ -11,7 +11,7 @@
 - **Docente:** MTI. Marco Antonio Ramirez Hernandez
 
 ## Descripción
-Esta aplicación móvil fue desarrollada como parte de la Tarea 3 en la asignatura de Desarrollo Móvil Integral. La aplicación tiene como objetivo demostrar la estilización, animaciones y el uso de fuentes personalizadas en Flutter.
+Esta aplicación móvil fue desarrollada como parte de la Tarea 3 en la asignatura de Desarrollo Móvil Integral. La aplicación tiene como objetivo crear nuestr primera app en flutter.
 
 ## Características
 - Título de la aplicación: Practica 3: 200570
